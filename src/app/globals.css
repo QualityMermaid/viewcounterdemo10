@@ -105,3 +105,12 @@ a {
     color-scheme: dark;
   }
 }
+
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+  height: 100vh;
+}
